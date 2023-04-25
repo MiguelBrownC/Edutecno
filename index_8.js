@@ -21,6 +21,7 @@ function concatenar(string1, string2) {
     let junto = string1 + " " + string2
     return junto;
 }
+//prueba
 
 let dat1 = "hola"
 let dat2 = "a TODOS"
